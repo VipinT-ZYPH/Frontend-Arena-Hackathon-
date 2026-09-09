@@ -1,0 +1,6 @@
+{
+  "name": "Echo",
+  "description": "A spatial social platform where people contribute to shared experiences instead of posting to a conventional feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
